@@ -11,6 +11,3 @@ The MD5 hash that corresponds with the listing for the corrupted file, is the MD
 - [ ] macOS 10.15.4 Intel Combo Upd.dmg
 	- MD5: 22DAF8AFD7D7D90CAA29AF27F79C2ED1
 	- (pkgutil --check-signature) package is invalid (checksum did not verify)
-
-- [ ] macOS 10.15.7 Intel Upd.dmg
-	- MD5: 0319B0314AE54129F80187ACF0571AE6

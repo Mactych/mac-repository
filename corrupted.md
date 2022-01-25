@@ -1,4 +1,4 @@
-# Possible Corrupt Files
+# Corrupted Files
 A list of corrupted files is listed below.
 
 - [x] macOS 10.15.3 Intel Combo Upd.dmg
